@@ -123,7 +123,7 @@ function Footer() {
       </div>
 
       {/* Footer Bottom  */}
-      <div className="pt-6 pb-4 max-w-6xl mx-auto px-6 bg-[#f5f5f7]">
+      <div className="pt-6 pb-4 max-w-6xl mx-auto px-6 bg-gray-200">
         <p className="text-xs text-gray-500 text-center mb-4">
           More ways to shop: <a href="#" className="text-blue-600 hover:underline">Find an Apple Store</a> or <a href="#" className="text-blue-600 hover:underline">other retailer</a> near you. Or call 1-800-MY-APPLE.
         </p>
