@@ -30,7 +30,7 @@ Stay connected
 <div className="overflow-hidden w-full
                h-[80vh] min-h-[400px] max-h-[900px]
                sm:h-[75vh] sm:min-h-[400px] sm:max-h-[700px]
-               md:h-[120vh] md:max-h-[1000px]">
+               md:h-[130vh] md:max-h-[1000px]">
   
    <a href='#'>   <img 
             className='w-full h-full object-cover object-top'

@@ -4,7 +4,7 @@ function Footertext() {
   return (
 
 <footer className='flex justify-center   bg-gray-200 hidden sm:flex  '>
-<div className='px-20 w-[900px]  text-sm mt-5 text-justify text-gray-600 border-b  border-gray-300'>
+<div className='px-9 w-full  text-sm mt-5 text-justify text-gray-600 border-b  border-gray-300'>
 <ul className=''>
      <li>
         ◊No Cost EMI is available with the purchase of an eligible product made using qualifying cards
