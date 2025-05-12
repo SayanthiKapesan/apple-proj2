@@ -63,7 +63,7 @@ function Footer() {
   ];
 
   return (
-    <footer className='bg-[#f5f5f7]'>
+    <footer className='bg-gray-200'>
       {/* Mobile  Menu */}
       <div className="sm:hidden">
         {menuSections.map((section, index) => (
@@ -98,7 +98,7 @@ function Footer() {
       </div>
 
       {/* Desktop  Menu */}
-      <div className="hidden sm:block max-w-6xl mx-auto px-6 py-8">
+      <div className="hidden sm:block max-w-6xl mx-auto px-6 py-8  bg-gray-200">
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8">
           {menuSections.map((section, index) => (
             <div key={index} className="text-gray-600">
