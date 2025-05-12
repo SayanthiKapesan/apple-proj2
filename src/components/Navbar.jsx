@@ -28,7 +28,7 @@ function Navbar() {
     };
 
     return (
-        <nav className="bg-gray-100 px-4 py-3 shadow-lg">
+        <nav className="bg-gray-100 px-4 py-3 shadow-lg z-50 top-0 sticky">
             <div className="max-w-7xl mx-auto">
                 {/* Mobile Header - Logo and Menu Button */}
                 <div className="md:hidden flex items-center justify-between">
