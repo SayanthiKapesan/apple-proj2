@@ -27,9 +27,11 @@ Stay connected
 </div>
 </div>
 
-<div className="overflow-hidden w-full   h-[calc(100vh-100px)]
-    max-h-[500px] sm:h-[calc(500vh-500px)]
-    sm:max-h-[750px]">
+<div className="overflow-hidden w-full
+               h-[80vh] min-h-[400px] max-h-[900px]
+               sm:h-[75vh] sm:min-h-[400px] sm:max-h-[700px]
+               md:h-[120vh] md:max-h-[1000px]">
+  
    <a href='#'>   <img 
             className='w-full h-full object-cover object-top'
             src='https://www.apple.com/in/watch/home/images/overview/welcome/welcome__n6xy87ib1gyu_large_2x.jpg' 
